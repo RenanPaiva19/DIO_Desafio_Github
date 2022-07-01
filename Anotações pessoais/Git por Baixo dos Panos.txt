@@ -1,0 +1,3 @@
+Blobs - Contém os Metadados do arquivo
+Trees - Armazena os Blobs
+Commits - Aponta para uma árvore
