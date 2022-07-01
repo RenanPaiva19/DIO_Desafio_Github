@@ -1,0 +1,6 @@
+git init - inicia o Git dentro de uma pasta
+git add - move os arquivos para o início do versionamento
+git commit - commita o arquivo para que seja feio o upload para o Github
+git status - mostra o status do arquivo
+git push - para enviar o arquivo para o Github
+git pull - puxa o repositório que esta no Github (remoto), para a máquina pessoal.
